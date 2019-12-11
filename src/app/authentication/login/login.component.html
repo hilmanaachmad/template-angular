@@ -1,0 +1,22 @@
+<table>
+    <thead>
+        <tr>
+            <td>
+                Nama
+            </td>
+            <td>
+                NIK
+            </td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr *ngFor="let item of data">
+            <td>
+                {{item.lg_name}}
+            </td>
+            <td>
+                {{item.lg_nik}}
+            </td>
+        </tr>
+    </tbody>
+</table>
