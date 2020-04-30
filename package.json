@@ -27,7 +27,7 @@
     "core-js": "^2.5.4",
     "css-animator": "^2.3.1",
     "d3": "^5.9.1",
-    "jquery": "^3.3.1",
+    "jquery": "^3.5.0",
     "ng-click-outside": "^4.0.0",
     "ng-select": "^1.0.1",
     "ng2-toasty": "^4.0.3",
